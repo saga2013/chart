@@ -1,0 +1,72 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "year": 2010,
+      "genre": "Science Fiction",
+      "rating": 8.8,
+      "actors": [
+        {"id": 1, "name": "Leonardo DiCaprio"},
+        {"id": 2, "name": "Joseph Gordon-Levitt"},
+        {"id": 3, "name": "Ellen Page"}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "rating": 9.0,
+      "year": 2008,
+      "genre": "Action",
+      "actors": [
+        {"id": 1, "name": "Christian Bale"},
+        {"id": 4, "name": "Heath Ledger"}
+      ]
+    },
+    {
+        "id": 3,
+        "title": "Breaking Bad",
+        "rating": 6.8,
+        "year": 2008,
+        "seasons": 5,
+        "genre": "Crime, Drama",
+        "actors": [
+          {"id": 5, "name": "Bryan Cranston"},
+          {"id": 6, "name": "Aaron Paul"}
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Stranger Things",
+        "rating": 9.9,
+        "year": 2016,
+        "seasons": 4,
+        "genre": "Horror, Drama, Fantasy",
+        "actors": [
+          {"id": 7, "name": "Winona Ryder"},
+          {"id": 8, "name": "Millie Bobby Brown"}
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Sherlock Holmes",
+        "rating": 9.9,
+        "year": 2010,
+        "seasons": 4,
+        "genre": "Detective, Drama, Fantasy"
+      }
+  ],
+
+
+  
+  "actors": [
+    {"id": 1, "name": "Leonardo DiCaprio", "birthdate": "1974-11-11", "nationality": "American"},
+    {"id": 2, "name": "Joseph Gordon-Levitt", "birthdate": "1981-02-17", "nationality": "American"},
+    {"id": 3, "name": "Ellen Page", "birthdate": "1987-02-21", "nationality": "Canadian"},
+    {"id": 4, "name": "Heath Ledger", "birthdate": "1979-04-04", "nationality": "Australian"},
+    {"id": 5, "name": "Bryan Cranston", "birthdate": "1956-03-07", "nationality": "American"},
+    {"id": 6, "name": "Aaron Paul", "birthdate": "1979-08-27", "nationality": "American"},
+    {"id": 7, "name": "Winona Ryder", "birthdate": "1971-10-29", "nationality": "American"},
+    {"id": 8, "name": "Millie Bobby Brown", "birthdate": "2004-02-19", "nationality": "British"}
+  ]
+}
